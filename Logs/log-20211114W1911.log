@@ -1,0 +1,14 @@
+19:11:17  INFO  manager.ApplicationManager - Tests starts on Chrome Driver
+19:11:19  INFO  tests.TestBase - Start test--->registrationTestWrongEmail
+19:11:19  INFO  manager.MyListener - Start search element by locator--->By.xpath: //button[text()='Sign Out']
+19:11:29  INFO  manager.MyListener - The element with locator-->By.xpath: //button[text()='Sign Out']was found
+19:11:29  INFO  manager.MyListener - Start search element by locator--->By.xpath: //a[text()='LOGIN']
+19:11:29  INFO  manager.MyListener - The element with locator-->By.xpath: //a[text()='LOGIN']was found
+19:11:30  INFO  manager.MyListener - Start search element by locator--->By.xpath: //input[1]
+19:11:30  INFO  manager.MyListener - The element with locator-->By.xpath: //input[1]was found
+19:11:30  INFO  manager.MyListener - Start search element by locator--->By.xpath: //input[2]
+19:11:30  INFO  manager.MyListener - The element with locator-->By.xpath: //input[2]was found
+19:11:30  INFO  manager.MyListener - Start search element by locator--->By.xpath: //button[2]
+19:11:30  INFO  manager.MyListener - The element with locator-->By.xpath: //button[2]was found
+19:11:32  INFO  tests.TestBase - *******************************************
+19:11:32  INFO  manager.ApplicationManager - Tests passed

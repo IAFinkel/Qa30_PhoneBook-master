@@ -1,0 +1,153 @@
+19:46:05  INFO  manager.ApplicationManager - Tests starts on Chrome Driver
+19:46:08  INFO  tests.TestBase - Start test--->addNewContactTest
+19:46:08  INFO  manager.MyListener - Start search element by locator--->By.xpath: //button[text()='Sign Out']
+19:46:18  INFO  manager.MyListener - The element with locator-->By.xpath: //button[text()='Sign Out']was found
+19:46:18  INFO  manager.MyListener - Start search element by locator--->By.xpath: //a[text()='LOGIN']
+19:46:18  INFO  manager.MyListener - The element with locator-->By.xpath: //a[text()='LOGIN']was found
+19:46:18  INFO  manager.MyListener - Start search element by locator--->By.xpath: //input[1]
+19:46:18  INFO  manager.MyListener - The element with locator-->By.xpath: //input[1]was found
+19:46:18  INFO  manager.MyListener - Start search element by locator--->By.xpath: //input[2]
+19:46:18  INFO  manager.MyListener - The element with locator-->By.xpath: //input[2]was found
+19:46:18  INFO  manager.MyListener - Start search element by locator--->By.xpath: //button[1]
+19:46:18  INFO  manager.MyListener - The element with locator-->By.xpath: //button[1]was found
+19:46:18  INFO  manager.MyListener - Start search element by locator--->By.cssSelector: a[href='/add']
+19:46:20  INFO  manager.MyListener - The element with locator-->By.cssSelector: a[href='/add']was found
+19:46:20  INFO  manager.MyListener - Start search element by locator--->By.cssSelector: [placeholder='Name']
+19:46:20  INFO  manager.MyListener - The element with locator-->By.cssSelector: [placeholder='Name']was found
+19:46:20  INFO  manager.MyListener - Start search element by locator--->By.cssSelector: [placeholder='Last Name']
+19:46:20  INFO  manager.MyListener - The element with locator-->By.cssSelector: [placeholder='Last Name']was found
+19:46:20  INFO  manager.MyListener - Start search element by locator--->By.cssSelector: [placeholder='Phone']
+19:46:20  INFO  manager.MyListener - The element with locator-->By.cssSelector: [placeholder='Phone']was found
+19:46:21  INFO  manager.MyListener - Start search element by locator--->By.cssSelector: [placeholder='email']
+19:46:21  INFO  manager.MyListener - The element with locator-->By.cssSelector: [placeholder='email']was found
+19:46:21  INFO  manager.MyListener - Start search element by locator--->By.cssSelector: [placeholder='Address']
+19:46:21  INFO  manager.MyListener - The element with locator-->By.cssSelector: [placeholder='Address']was found
+19:46:21  INFO  manager.MyListener - Start search element by locator--->By.cssSelector: [placeholder='description']
+19:46:21  INFO  manager.MyListener - The element with locator-->By.cssSelector: [placeholder='description']was found
+19:46:21  INFO  manager.MyListener - Start search element by locator--->By.xpath: //button[.='Save']
+19:46:21  INFO  manager.MyListener - The element with locator-->By.xpath: //button[.='Save']was found
+19:46:31  INFO  manager.MyListener - Something went wrong!
+19:46:31  INFO  manager.MyListener - element not interactable
+  (Session info: chrome=95.0.4638.69)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-44JBEN25', ip: '172.20.10.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\gorbu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50394}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b572e11ec4d006fcc17f22e30e2b80b6
+19:46:31  INFO  manager.MyListener - org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=95.0.4638.69)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-44JBEN25', ip: '172.20.10.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\gorbu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50394}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b572e11ec4d006fcc17f22e30e2b80b6
+19:46:31  INFO  manager.MyListener - This link to the screenshot with error-->src/test/screenshots/screenshot-2791.png
+19:46:31  INFO  tests.TestBase - *******************************************
+19:46:31  INFO  tests.TestBase - Start test--->addNewContactTest
+19:46:31  INFO  manager.MyListener - Start search element by locator--->By.xpath: //button[text()='Sign Out']
+19:46:31  INFO  manager.MyListener - The element with locator-->By.xpath: //button[text()='Sign Out']was found
+19:46:31  INFO  manager.MyListener - Start search element by locator--->By.cssSelector: a[href='/add']
+19:46:31  INFO  manager.MyListener - The element with locator-->By.cssSelector: a[href='/add']was found
+19:46:32  INFO  manager.MyListener - Start search element by locator--->By.cssSelector: [placeholder='Name']
+19:46:32  INFO  manager.MyListener - The element with locator-->By.cssSelector: [placeholder='Name']was found
+19:46:32  INFO  manager.MyListener - Start search element by locator--->By.cssSelector: [placeholder='Last Name']
+19:46:32  INFO  manager.MyListener - The element with locator-->By.cssSelector: [placeholder='Last Name']was found
+19:46:32  INFO  manager.MyListener - Start search element by locator--->By.cssSelector: [placeholder='Phone']
+19:46:32  INFO  manager.MyListener - The element with locator-->By.cssSelector: [placeholder='Phone']was found
+19:46:32  INFO  manager.MyListener - Start search element by locator--->By.cssSelector: [placeholder='email']
+19:46:32  INFO  manager.MyListener - The element with locator-->By.cssSelector: [placeholder='email']was found
+19:46:32  INFO  manager.MyListener - Start search element by locator--->By.cssSelector: [placeholder='Address']
+19:46:32  INFO  manager.MyListener - The element with locator-->By.cssSelector: [placeholder='Address']was found
+19:46:32  INFO  manager.MyListener - Start search element by locator--->By.cssSelector: [placeholder='description']
+19:46:32  INFO  manager.MyListener - The element with locator-->By.cssSelector: [placeholder='description']was found
+19:46:32  INFO  manager.MyListener - Start search element by locator--->By.xpath: //button[.='Save']
+19:46:32  INFO  manager.MyListener - The element with locator-->By.xpath: //button[.='Save']was found
+19:46:42  INFO  manager.MyListener - Something went wrong!
+19:46:42  INFO  manager.MyListener - element not interactable
+  (Session info: chrome=95.0.4638.69)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-44JBEN25', ip: '172.20.10.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\gorbu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50394}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b572e11ec4d006fcc17f22e30e2b80b6
+19:46:42  INFO  manager.MyListener - org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=95.0.4638.69)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-44JBEN25', ip: '172.20.10.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\gorbu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50394}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b572e11ec4d006fcc17f22e30e2b80b6
+19:46:43  INFO  manager.MyListener - This link to the screenshot with error-->src/test/screenshots/screenshot-2802.png
+19:46:43  INFO  tests.TestBase - *******************************************
+19:46:43  INFO  tests.TestBase - Start test--->addNewContactTest
+19:46:43  INFO  manager.MyListener - Start search element by locator--->By.xpath: //button[text()='Sign Out']
+19:46:43  INFO  manager.MyListener - The element with locator-->By.xpath: //button[text()='Sign Out']was found
+19:46:43  INFO  manager.MyListener - Start search element by locator--->By.cssSelector: a[href='/add']
+19:46:43  INFO  manager.MyListener - The element with locator-->By.cssSelector: a[href='/add']was found
+19:46:43  INFO  manager.MyListener - Start search element by locator--->By.cssSelector: [placeholder='Name']
+19:46:43  INFO  manager.MyListener - The element with locator-->By.cssSelector: [placeholder='Name']was found
+19:46:43  INFO  manager.MyListener - Start search element by locator--->By.cssSelector: [placeholder='Last Name']
+19:46:43  INFO  manager.MyListener - The element with locator-->By.cssSelector: [placeholder='Last Name']was found
+19:46:43  INFO  manager.MyListener - Start search element by locator--->By.cssSelector: [placeholder='Phone']
+19:46:43  INFO  manager.MyListener - The element with locator-->By.cssSelector: [placeholder='Phone']was found
+19:46:43  INFO  manager.MyListener - Start search element by locator--->By.cssSelector: [placeholder='email']
+19:46:43  INFO  manager.MyListener - The element with locator-->By.cssSelector: [placeholder='email']was found
+19:46:43  INFO  manager.MyListener - Start search element by locator--->By.cssSelector: [placeholder='Address']
+19:46:43  INFO  manager.MyListener - The element with locator-->By.cssSelector: [placeholder='Address']was found
+19:46:44  INFO  manager.MyListener - Start search element by locator--->By.cssSelector: [placeholder='description']
+19:46:44  INFO  manager.MyListener - The element with locator-->By.cssSelector: [placeholder='description']was found
+19:46:44  INFO  manager.MyListener - Start search element by locator--->By.xpath: //button[.='Save']
+19:46:44  INFO  manager.MyListener - The element with locator-->By.xpath: //button[.='Save']was found
+19:46:54  INFO  manager.MyListener - Something went wrong!
+19:46:54  INFO  manager.MyListener - element not interactable
+  (Session info: chrome=95.0.4638.69)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-44JBEN25', ip: '172.20.10.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\gorbu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50394}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b572e11ec4d006fcc17f22e30e2b80b6
+19:46:54  INFO  manager.MyListener - org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=95.0.4638.69)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-44JBEN25', ip: '172.20.10.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\gorbu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50394}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b572e11ec4d006fcc17f22e30e2b80b6
+19:46:54  INFO  manager.MyListener - This link to the screenshot with error-->src/test/screenshots/screenshot-2814.png
+19:46:54  INFO  tests.TestBase - *******************************************
+19:46:54  INFO  tests.TestBase - Start test--->addNewContactTest
+19:46:54  INFO  manager.MyListener - Start search element by locator--->By.xpath: //button[text()='Sign Out']
+19:46:54  INFO  manager.MyListener - The element with locator-->By.xpath: //button[text()='Sign Out']was found
+19:46:54  INFO  manager.MyListener - Start search element by locator--->By.cssSelector: a[href='/add']
+19:46:54  INFO  manager.MyListener - The element with locator-->By.cssSelector: a[href='/add']was found
+19:46:54  INFO  manager.MyListener - Start search element by locator--->By.cssSelector: [placeholder='Name']
+19:46:54  INFO  manager.MyListener - The element with locator-->By.cssSelector: [placeholder='Name']was found
+19:46:54  INFO  manager.MyListener - Start search element by locator--->By.cssSelector: [placeholder='Last Name']
+19:46:54  INFO  manager.MyListener - The element with locator-->By.cssSelector: [placeholder='Last Name']was found
+19:46:54  INFO  manager.MyListener - Start search element by locator--->By.cssSelector: [placeholder='Phone']
+19:46:55  INFO  manager.MyListener - The element with locator-->By.cssSelector: [placeholder='Phone']was found
+19:46:55  INFO  manager.MyListener - Start search element by locator--->By.cssSelector: [placeholder='email']
+19:46:55  INFO  manager.MyListener - The element with locator-->By.cssSelector: [placeholder='email']was found
+19:46:55  INFO  manager.MyListener - Start search element by locator--->By.cssSelector: [placeholder='Address']
+19:46:55  INFO  manager.MyListener - The element with locator-->By.cssSelector: [placeholder='Address']was found
+19:46:55  INFO  manager.MyListener - Start search element by locator--->By.cssSelector: [placeholder='description']
+19:46:55  INFO  manager.MyListener - The element with locator-->By.cssSelector: [placeholder='description']was found
+19:46:55  INFO  manager.MyListener - Start search element by locator--->By.xpath: //button[.='Save']
+19:46:55  INFO  manager.MyListener - The element with locator-->By.xpath: //button[.='Save']was found
+19:47:05  INFO  manager.MyListener - Something went wrong!
+19:47:05  INFO  manager.MyListener - element not interactable
+  (Session info: chrome=95.0.4638.69)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-44JBEN25', ip: '172.20.10.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\gorbu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50394}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b572e11ec4d006fcc17f22e30e2b80b6
+19:47:05  INFO  manager.MyListener - org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=95.0.4638.69)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-44JBEN25', ip: '172.20.10.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\gorbu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50394}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b572e11ec4d006fcc17f22e30e2b80b6
+19:47:06  INFO  manager.MyListener - This link to the screenshot with error-->src/test/screenshots/screenshot-2825.png
+19:47:06  INFO  tests.TestBase - *******************************************
