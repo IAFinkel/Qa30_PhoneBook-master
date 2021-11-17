@@ -1,0 +1,45 @@
+21:10:57  INFO  manager.ApplicationManager - Tests starts on Chrome Driver
+21:10:59  INFO  tests.TestBase - Start test--->removeAllContacts
+21:10:59  INFO  manager.MyListener - Start search element by locator--->By.xpath: //button[text()='Sign Out']
+21:11:09  INFO  manager.MyListener - The element with locator-->By.xpath: //button[text()='Sign Out']was found
+21:11:09  INFO  manager.MyListener - Start search element by locator--->By.xpath: //a[text()='LOGIN']
+21:11:09  INFO  manager.MyListener - The element with locator-->By.xpath: //a[text()='LOGIN']was found
+21:11:09  INFO  manager.MyListener - Start search element by locator--->By.xpath: //input[1]
+21:11:09  INFO  manager.MyListener - The element with locator-->By.xpath: //input[1]was found
+21:11:09  INFO  manager.MyListener - Start search element by locator--->By.xpath: //input[2]
+21:11:09  INFO  manager.MyListener - The element with locator-->By.xpath: //input[2]was found
+21:11:09  INFO  manager.MyListener - Start search element by locator--->By.xpath: //button[1]
+21:11:09  INFO  manager.MyListener - The element with locator-->By.xpath: //button[1]was found
+21:11:23  INFO  manager.MyListener - Start search element by locator--->By.cssSelector: .contact-item_card__2SOIM
+21:11:23  INFO  manager.MyListener - The element with locator-->By.cssSelector: .contact-item_card__2SOIMwas found
+21:13:59  ERROR manager.MyListener - Something went wrong!
+21:13:59  ERROR manager.MyListener - chrome not reachable
+  (Session info: chrome=95.0.4638.69)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-44JBEN25', ip: '172.20.10.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\gorbu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64019}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c281f56452a1991cabe120f859f9652a
+21:13:59  ERROR manager.MyListener - org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=95.0.4638.69)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-44JBEN25', ip: '172.20.10.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\gorbu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64019}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c281f56452a1991cabe120f859f9652a
+21:14:11  ERROR manager.MyListener - Something went wrong!
+21:14:11  ERROR manager.MyListener - chrome not reachable
+  (Session info: chrome=95.0.4638.69)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-44JBEN25', ip: '172.20.10.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\gorbu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64019}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c281f56452a1991cabe120f859f9652a
+21:14:11  ERROR manager.MyListener - org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=95.0.4638.69)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-44JBEN25', ip: '172.20.10.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\gorbu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64019}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c281f56452a1991cabe120f859f9652a
+21:14:23  INFO  manager.MyListener - Start search element by locator--->By.xpath: //button[text()='Remove']

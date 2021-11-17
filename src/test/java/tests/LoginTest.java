@@ -6,7 +6,7 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 public class LoginTest extends TestBase {
-    @BeforeMethod
+    @BeforeMethod(alwaysRun = true)
     public void preCondition(){
         if(app.getUser().isLogged()){
             app.getUser().logout();
@@ -14,10 +14,10 @@ public class LoginTest extends TestBase {
     }
 
 
-    @Test
+    @Test(groups = {"web"})
     public void loginTest() {
-        String email = "noa@gmail.com";
-        String password = "Nnoa12345$";
+        String email = "goodwin49@mail.ru";
+        String password = "Gor12345$";
         System.out.println( email +"   "+password);
         app.getUser().openLoginRegistrationForm();
         app.getUser().fillLoginRegistrationForm(email, password);
@@ -28,8 +28,8 @@ public class LoginTest extends TestBase {
     }
     @Test
     public void loginTestModel() {
-        String email = "noa@gmail.com";
-        String password = "Nnoa12345$";
+        String email = "goodwin49@mail.ru";
+        String password = "Gor12345$";
         User user = new User().withEmail(email).withPassword(password);
 
         app.getUser().openLoginRegistrationForm();

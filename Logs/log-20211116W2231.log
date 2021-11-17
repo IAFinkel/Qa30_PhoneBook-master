@@ -1,0 +1,19 @@
+22:31:12  INFO  manager.ApplicationManager - Tests starts on Chrome Driver
+22:31:15  INFO  tests.TestBase - Start test--->removeAllContacts
+22:31:15  INFO  manager.MyListener - Start search element by locator--->By.xpath: //button[text()='Sign Out']
+22:31:25  INFO  manager.MyListener - The element with locator-->By.xpath: //button[text()='Sign Out']was found
+22:31:25  INFO  manager.MyListener - Start search element by locator--->By.xpath: //a[text()='LOGIN']
+22:31:25  INFO  manager.MyListener - The element with locator-->By.xpath: //a[text()='LOGIN']was found
+22:31:25  INFO  manager.MyListener - Start search element by locator--->By.xpath: //input[1]
+22:31:25  INFO  manager.MyListener - The element with locator-->By.xpath: //input[1]was found
+22:31:25  INFO  manager.MyListener - Start search element by locator--->By.xpath: //input[2]
+22:31:25  INFO  manager.MyListener - The element with locator-->By.xpath: //input[2]was found
+22:31:25  INFO  manager.MyListener - Start search element by locator--->By.xpath: //button[1]
+22:31:25  INFO  manager.MyListener - The element with locator-->By.xpath: //button[1]was found
+22:31:25  INFO  manager.MyListener - Start search element by locator--->By.cssSelector: .contact-item_card__2SOIM
+22:31:35  INFO  manager.MyListener - The element with locator-->By.cssSelector: .contact-item_card__2SOIMwas found
+22:31:40  INFO  manager.MyListener - Start search element by locator--->By.cssSelector: .contact-item_card__2SOIM
+22:31:50  INFO  manager.MyListener - The element with locator-->By.cssSelector: .contact-item_card__2SOIMwas found
+22:31:50  INFO  manager.MyListener - Start search element by locator--->By.cssSelector: .contact-item_card__2SOIM
+22:32:00  INFO  manager.MyListener - The element with locator-->By.cssSelector: .contact-item_card__2SOIMwas found
+22:32:00  INFO  tests.TestBase - *******************************************
