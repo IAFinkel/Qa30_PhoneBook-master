@@ -12,7 +12,6 @@
         <classes>
             <class name="tests.LoginTest"/>
             <class name="tests.AddNewContactTest"/>
-            <class name="tests.RegistrationTest"/>
 
         </classes>
     </test>
