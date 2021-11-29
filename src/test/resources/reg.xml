@@ -6,6 +6,7 @@
     <test name="reg">
         <classes>
             <class name="tests.RegistrationTest"/>
+            <class name="tests.LoginTest"/>
         </classes>
     </test>
 </suite>
