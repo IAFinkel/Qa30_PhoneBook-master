@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.AddNewContactTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-11-29T15:07:27" hostname="LAPTOP-44JBEN25" time="3.552">
+  <properties/>
+  <testcase name="addNewContactTest" classname="tests.AddNewContactTest" time="3.552"/>
+  <system-out><![CDATA[17:07:27  INFO  tests.TestBase - Start test--->addNewContactTest
+17:07:27  INFO  manager.MyListener - Start search element by locator--->By.xpath: //button[text()='Sign Out']
+17:07:27  INFO  manager.MyListener - The element with locator-->By.xpath: //button[text()='Sign Out']was found
+17:07:27  INFO  manager.MyListener - Start search element by locator--->By.cssSelector: a[href='/add']
+17:07:27  INFO  manager.MyListener - The element with locator-->By.cssSelector: a[href='/add']was found
+17:07:27  INFO  manager.MyListener - Start search element by locator--->By.cssSelector: [placeholder='Name']
+17:07:27  INFO  manager.MyListener - The element with locator-->By.cssSelector: [placeholder='Name']was found
+17:07:28  INFO  manager.MyListener - Start search element by locator--->By.cssSelector: [placeholder='Last Name']
+17:07:28  INFO  manager.MyListener - The element with locator-->By.cssSelector: [placeholder='Last Name']was found
+17:07:28  INFO  manager.MyListener - Start search element by locator--->By.cssSelector: [placeholder='Phone']
+17:07:28  INFO  manager.MyListener - The element with locator-->By.cssSelector: [placeholder='Phone']was found
+17:07:28  INFO  manager.MyListener - Start search element by locator--->By.cssSelector: [placeholder='email']
+17:07:28  INFO  manager.MyListener - The element with locator-->By.cssSelector: [placeholder='email']was found
+17:07:29  INFO  manager.MyListener - Start search element by locator--->By.cssSelector: [placeholder='Address']
+17:07:29  INFO  manager.MyListener - The element with locator-->By.cssSelector: [placeholder='Address']was found
+17:07:29  INFO  manager.MyListener - Start search element by locator--->By.cssSelector: [placeholder='description']
+17:07:29  INFO  manager.MyListener - The element with locator-->By.cssSelector: [placeholder='description']was found
+17:07:29  INFO  manager.MyListener - Start search element by locator--->By.xpath: (//button)[2]
+17:07:29  INFO  manager.MyListener - The element with locator-->By.xpath: (//button)[2]was found
+17:07:30  INFO  manager.MyListener - Start search element by locator--->By.cssSelector: .contact-page_leftdiv__yhyke
+17:07:30  INFO  manager.MyListener - The element with locator-->By.cssSelector: .contact-page_leftdiv__yhykewas found
+17:07:30  INFO  manager.MyListener - Start search element by locator--->By.cssSelector: .contact-item_card__2SOIM
+17:07:30  INFO  manager.MyListener - The element with locator-->By.cssSelector: .contact-item_card__2SOIMwas found
+17:07:30  INFO  manager.MyListener - Start search element by locator--->By.cssSelector: h3
+17:07:30  INFO  manager.MyListener - The element with locator-->By.cssSelector: h3was found
+17:07:30  INFO  tests.TestBase - *******************************************
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
